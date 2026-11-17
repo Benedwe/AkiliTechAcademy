@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://brightbyte.co.tz/sitemap.xml
